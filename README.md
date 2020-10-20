@@ -26,7 +26,7 @@
 
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Bosphoramus&hide_title=true&hide_border=true&langs_count=5)
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=Bosphoramus)](https://github.com/Bosphoramus/github-readme-stats)
 
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
 - 🇪🇸 From Murcia, Spain
