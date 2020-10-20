@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Bosphoramus/Bosphoramus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/Bosphoramus">
+  <img align="left" alt="Antonio Ramírez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/antonio-ram%C3%ADrez-m%C3%A1rquez-3a5347189/">
+  <img align="left" alt="Antonio Ramírez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/AntonioRM">
+  <img align="left" alt="Antonio Ramírez | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/antoniorm.jpg/">
+  <img align="left" alt="Antonio Ramírez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/lHeraldo">
+  <img align="left" alt="Antonio Ramírez | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://twitter.com/Bosphoramus">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Bosphoramus?style=for-the-badge">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Bosphoramus"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true" align="right" height="150" /></a>
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Bosphoramus&hide_title=true&hide_border=true&langs_count=5)
+
+- 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
+- 🇪🇸 From Murcia, Spain
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" />
+
+</details>
