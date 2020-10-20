@@ -22,18 +22,10 @@
   </a>
 </p>
 
-<a href="https://github.com/Bosphoramus"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true" align="right" height="150" /></a>
-
-📊 **This week I spent my time on**
-
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=Bosphoramus)](https://github.com/Bosphoramus/github-readme-stats)
-
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
 - 🇪🇸 From Murcia, Spain
 
 <details>
 <summary>📈 My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" />
-
 </details>
