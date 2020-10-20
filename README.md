@@ -25,7 +25,7 @@
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
 - 🇪🇸 From Murcia, Spain
 
-<details>
+<details open>
 <summary>📈 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" />
 </details>
