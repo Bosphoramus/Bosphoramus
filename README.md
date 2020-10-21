@@ -23,7 +23,7 @@
 </p>
 
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
-- 🇪🇸 From Murcia, Spain
+- 🇪🇸  From Murcia, Spain
 
 <details open>
 <summary>📈 My GitHub Stats</summary>
