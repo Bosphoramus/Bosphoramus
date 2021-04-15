@@ -6,7 +6,8 @@
   </a>
 </p>
 
-- 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue)
+- 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue, React...).
+- ⚛ Interested in FrontEnd development, learning Next.js, Nuxt.js...
 - 🇪🇸  From Murcia, Spain
 
 <details open>
