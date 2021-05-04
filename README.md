@@ -2,6 +2,11 @@
 
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue, React...).
 - ⚛ Interested in FrontEnd development, learning Next.js, Nuxt.js...
-- 🇪🇸 From Murcia, Spain
+- 🇪🇸  From Murcia, Spain
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" align="right" />
+<details open>
+  <summary>📈 My GitHub Stats</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" />
+  </div>
+</details>
