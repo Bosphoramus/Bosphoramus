@@ -2,7 +2,7 @@
 
 - 🚀 Junior WebDev, currently working with PHP (Vanilla, Laravel)  and JavaScript (Vanilla, Vue, React...).
 - ⚛ Interested in FrontEnd development, learning React, Next.js...
-- 🇪🇸  From Murcia, Spain
+- 🇪🇸  From Spain
 
 <details open>
   <summary>📈 My GitHub Stats</summary>
