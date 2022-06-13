@@ -1,6 +1,6 @@
 ### Hey there <img src="hey.gif" width="25" height="25">
 
-🚀 WebDev, working with Laravel and Vue, familiar with React
+🚀 WebDev, working with Laravel, Vue and React
 
 <details>
   <summary>📈 My GitHub Stats</summary>
