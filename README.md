@@ -2,11 +2,4 @@
 
 🚀 WebDev, working with Laravel, Vue and React
 
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bosphoramus&show_icons=true&theme=gotham" alt="Bosphoramus" />
-  </div>
-</details>
-
 ![Nyan cat](nyan-cat.gif "Tony's Nyan cat")
