@@ -11,7 +11,7 @@
     stack: ['laravel', 'vue', 'symfony', 'react'],
     editor: 'vscode',
     site: 'https://antoniorm.dev',
-    x: '@bosphoramus',
+    x: 'https://x.com/Bosphoramus',
 );
 => Developer {#1312}
 ```
